@@ -7,8 +7,6 @@
 ## 📝 About Me
 - 🎓 Master’s student in Information Management @ University of Washington  
 - 🌱 Learning **Data Science**, **Business Intelligence**, & **AI**  
-- 💬 Fluent in English & Chinese  
-- ⚡ In my free time, I explore generative AI and build data pipelines  
 
 ---
 
