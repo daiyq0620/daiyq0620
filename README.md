@@ -6,7 +6,8 @@
 
 ## 📝 About Me
 - 🎓 Master’s student in Information Management @ University of Washington  
-- 🌱 Learning **Data Science**, **Business Intelligence**, & **AI**  
+- 🌱 Learning **Data Science**, **Business Intelligence**, & **AI**
+- ⚡ Interested about MLops!  
 
 ---
 
