@@ -22,7 +22,6 @@
   <!-- Tools & Frameworks -->
   <img alt="Git"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"         width="40" height="40"/>
   <img alt="Docker"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"   width="40" height="40"/>
-  <img alt="Linux"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"     width="40" height="40"/>
 </p>
 
 ---
