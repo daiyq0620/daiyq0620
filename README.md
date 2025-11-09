@@ -35,5 +35,5 @@
 ## 📫 Get in Touch
 
 Feel free to drop me a message on:
-- 💼 LinkedIn: [linkedin.com/in/YOUR‑LINKEDIN](www.linkedin.com/in/yueqiandai)  
+- 💼 LinkedIn: www.linkedin.com/in/yueqiandai
 ---
